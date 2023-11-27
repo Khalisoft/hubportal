@@ -1,0 +1,13 @@
+.input-container{
+    position: relative;
+}
+
+.input-container> input{
+    padding: .4rem 1.2rem;
+}
+
+.input-icon{
+    position: absolute;
+   left:.2rem;
+   top: 25%;
+}
